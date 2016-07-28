@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://pp.co.uk/</loc>
+  <lastmod>2016-07-18T14:37:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://pp.co.uk/pages/shop.html</loc>
+  <lastmod>2016-07-18T14:20:04+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://pp.co.uk/pages/contact.html</loc>
+  <lastmod>2016-07-18T13:59:58+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://pp.co.uk/pages/help.html</loc>
+  <lastmod>2016-07-18T13:59:54+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://pp.co.uk/index.html</loc>
+  <lastmod>2016-07-18T14:37:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://pp.co.uk/pages/thanks.html</loc>
+  <lastmod>2016-07-18T14:44:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>

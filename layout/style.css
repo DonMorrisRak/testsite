@@ -1,0 +1,106 @@
+html{overflow-y:scroll;}
+
+body{
+margin:0; 
+padding:0; 
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+background-color: #f4f4f4;
+}
+
+.logo{
+width:10%; 
+height:48px;
+min-width: 85px;
+float: left;
+border: 1px solid #4d505b;
+}
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    overflow: hidden;
+    background-color: #80628B;
+    border: 1px solid #4d505b;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+ul.navbar li {float: left;}
+ul.navbar li a {
+    display: inline-block;
+    color: #fafafa;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+ul.navbar li a:hover {background-color: #16a79d;}
+ul.navbar li.icon {display: none;}
+ul.navbar li a.active { background-color: #f4ac42;color: #fafafa;}
+
+.search {
+    background-color: #cf4858;
+    color: #fafafa;
+    width: 130px;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    border: 1px solid #4d505b;   
+}
+
+ul.sidebar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 10%;
+    min-width: 85px;
+    position: fixed;
+    height: 100%;
+    top: 50px;
+    overflow: auto;
+    background-color: #80628B;
+    border: 1px solid #4d505b;
+}
+ul.sidebar li a {
+    display: block;
+    color: #fafafa;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+ul.sidebar li a:hover { background-color: #16a79d;color: #fafafa;}
+
+div.mainbody {
+  background-color: #f4f4f4;
+  color: #2a2a2a;
+  margin-top:30px;
+  margin-left:10%;
+  padding:1px 80px;
+  height: 100%;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+div.footer {
+    background-color: #cf4858; 
+    border: 1px solid #4d505b;
+    height: 100px;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    text-decoration: underline;
+    left: 10%;
+}
+
+ul.social li {
+    display: inline;
+    padding: 14px 16px;
+}
+
+ul.social li a{
+  color: #f4f4f4;
+}
